@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_antv_ava_site=self.webpackChunk_antv_ava_site||[]).push([[8974],{838974:function(t,n,a){a.r(n),a.d(n,{default:function(){return r}});a(359301);var e=a(416049),u=a(437712);function r(){var t=(0,e.bx)();return(0,u.jsx)(e.j3,{context:t})}}}]);
